@@ -1,23 +1,19 @@
 # Hi, I'm Jetty! 👋
 
-I'm a student at **East China Normal University (ECNU)** in Shanghai, China. When I'm not buried in code, you can find me diving into **software development**, **system architecture**, or exploring the exciting world of **AI** and **machine learning**. 🤖✨
+🎓 Data Science student at **East China Normal University (ECNU)**, Shanghai.  
+Passionate about **data science**, **AI**, and **software development**. 🤖✨  
 
-## 🔧 Technologies & Tools
-- **Programming Languages**: JavaScript, TypeScript, Python — because every hero needs a toolkit! 💻🦸
-- **Frameworks & Libraries**: React, Next.js, Supabase — turning ideas into interactive magic. 🪄
-- **Specialties**: Frontend wizardry, data visualization, and building software for **LLMs (Large Language Models)** — yep, I talk to machines! 💬🤖
+## 🔧 Tech Stack
+- **Languages**: JavaScript, TypeScript, Python  
+- **Frameworks**: React, Next.js, Supabase  
+- **Specialties**: Data visualization, machine learning, and LLM tools.  
 
-## 🌱 My Recent Work
-- **Frontend of LLM Eco-Visualization**: A project that brings the **LLM ecosystem** to life! (Think of it like creating a digital garden of AI 🌱✨)
-- **CSAPP-Lab**: Hands-on learning of computer systems, assembly programming, and low-level optimizations. It's like learning to speak "binary" — don't worry, it's cool 😎
-- **Next.js with Supabase**: Building serverless apps with **Next.js** and **Supabase** — I promise it's as fun as it sounds! 😜
+## 🌱 Recent Projects
+- **LLM Eco-Visualization**: Visualizing the LLM ecosystem.  
+- **CSAPP-Lab**: Low-level system programming.  
+- **Next.js with Supabase**: Serverless app building.  
 
-## 🚀 Let's Connect!
-I’m always up for collaborating, sharing ideas, and working on cool projects. Let’s build something awesome together! 👾💥
+## 📬 Contact Me
+Reach me at [jettycoffee@outlook.com](mailto:jettycoffee@outlook.com).  
 
-📬 You can contact me via email at [jettycoffee@outlook.com](mailto:jettycoffee@outlook.com). Feel free to drop a message anytime — I love a good chat! 😄
-
-## ⚡ Fun Fact
-I can write code faster than I can make coffee... but I still need that coffee to stay sane. ☕💻
-
-Let's code, create, and conquer the tech world! 💪🔥
+☕ **Fun Fact**: Coffee keeps my data pipelines running.  
