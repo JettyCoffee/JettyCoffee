@@ -4,7 +4,7 @@
 Passionate about **data science**, **AI**, and **software development**. 🤖✨  
 
 ## 🔧 Tech Stack
-- **Languages**: JavaScript, TypeScript, Python  
+- **Languages**: Python, C, C++  
 - **Frameworks**: React, Next.js, Supabase  
 - **Specialties**: Data visualization, machine learning, and LLM tools.  
 
