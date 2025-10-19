@@ -1,35 +1,29 @@
-# Hi, I'm Jetty! 👋
+# Hi, I'm JettyCoffee! 👋
 
 🎓 Data Science student at **East China Normal University (ECNU)**, Shanghai.  
-Passionate about **AI Agents**, **Deep Learning**, and **Multimodal AI Systems**. 🤖✨  
+Passionate about **AI Agents**, **Deep Learning**, and **LLM & Graph on Role-Playing**. 🤖✨  
 
 ## 🔬 Research Focus
-- **AI Agent Ecosystem**: Building specialized agents for search, news analysis, and paper research  
-- **LangChain/LangGraph Systems**: Advanced agent workflows and multi-source intelligence  
-- **Deep Learning & NLP**: Multimodal AI for computer vision and natural language processing  
-- **Computer Vision**: OCR error correction and visual understanding systems  
-- **Data Science Algorithms**: Algorithm design and engineering for data-driven applications
+- **AI Agent**: Designing and developing multi-agent systems with complex planning and decision-making capabilities.
+- **LLM & Graph on Role-Playing**:Exploring the use of LLMs and graph structures to create dynamic narratives and intelligent NPCs in role-playing games.
+- **iOS APP Developing**:iOS APP Developing: Building intuitive and intelligent mobile applications, with a focus on leveraging on-device AI.
+- **Deep Learning**:Deep Learning: Applying advanced neural network architectures to solve real-world problems.
+- **Computer Vision**:Developing algorithms for image recognition, object detection, and visual data analysis.
 
 ## 🔧 Tech Stack
-- **Languages**: Python, C, C++, TypeScript, Java, JavaScript, Assembly  
-- **AI/ML**: LangChain, LangGraph, OpenAI API, Google AI, PaddleOCR, FFmpeg  
-- **Frameworks**: React, Next.js, Supabase, Material UI  
-- **Specialties**: AI agent ecosystems, multimodal AI, data science algorithms, and full-stack development
+- **Languages**: Python, C, C++, Swift, TypeScript, Java, JavaScript, 
+- **AI/ML**: LangChain, LangGraph, PaddleOCR
 
 ## 🚀 Featured Projects
 ### 🤖 AI Agent Series
-- **[Search_Agentic](https://github.com/JettyCoffee/Search_Agentic)**: Multi-source intelligent search agent using LangChain/LangGraph with Google, Brave, Semantic Scholar, and ArXiv integration  
-- **[Search_Agent_Langchain](https://github.com/JettyCoffee/Search_Agent_Langchain)**: Advanced search intelligence with LangChain framework  
-- **[Paper_Agent](https://github.com/JettyCoffee/Paper_Agent)**: AI agent for academic paper analysis and research assistance  
-- **[News_Agent](https://github.com/JettyCoffee/News_Agent)**: Intelligent news analysis and processing agent  
+- **Agent Planing(Priviate)**:sophisticated framework for autonomous agents to perform complex task decomposition and execution planning.
 
 ### 🧠 AI & ML Applications  
-- **[LLM Health](https://github.com/JettyCoffee/llm_health)**: Multimodal psychological health analysis platform with video/audio processing and multiple LLM integration  
-- **[VisCGEC](https://github.com/JettyCoffee/VisCGEC)**: Visual Chinese Grammatical Error Correction system with OCR and deep learning-based text correction  
-- **[NLP-ECNU-DaSE](https://github.com/JettyCoffee/NLP-ECNU-DaSE)**: Natural Language Processing coursework and research at ECNU
+- **[VisCGEC](https://github.com/JettyCoffee/VisCGEC)**: A visual tool designed for Chinese Grammatical Error Correction, helping users to identify and understand grammatical mistakes interactively.
 
 ## 🚧 Currently Working On
-- **LiveCompose**: AI-powered composition assistant iOS app for intelligent photography guidance and real-time composition optimization
+- **LiveCompose(构妙)**: AI-powered composition assistant iOS app for intelligent photography guidance and real-time composition optimization
+- **Click this to have a try: [LiveCapture(构妙) - iOS app Testflight](https://testflight.apple.com/join/MNX6ye5E)
 
 ## 🌱 Academic & Development Projects
 - **[Algorithms-for-Data-Science-and-Engineering](https://github.com/JettyCoffee/Algorithms-for-Data-Science-and-Engineering-Yhwang-)**: Data science algorithms and engineering implementations  
